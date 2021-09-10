@@ -1,0 +1,17 @@
+.jumbotron{
+    background-image:url('https://repository-images.githubusercontent.com/345221153/288a9900-7f38-11eb-87ff-69e5a984ec05');
+    font-weight: bold;
+    color: white;
+}
+body{
+    background-color: darkgrey;
+}
+
+.bubble-chart{
+    margin-top: 3%;
+}
+
+.nav{
+    background-color: white;
+    margin-bottom: 2%;
+}
